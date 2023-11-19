@@ -1,2 +1,2 @@
 # youtube_clone
-my first html project 
+my first html css and jsp project 
